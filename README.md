@@ -1,3 +1,19 @@
+# Objetivos de Desenvolvimento Sustentável (ODS)
+
+Os Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 como parte da Agenda 2030 para o Desenvolvimento Sustentável. São 17 metas interconectadas que visam erradicar a pobreza, proteger o planeta e assegurar a paz e a prosperidade para todos. Cada objetivo é composto por metas específicas e indicadores que orientam ações e políticas públicas globalmente.
+
+## Principais Áreas dos ODS
+
+- **Erradicação da Pobreza e Fome Zero:** Focar na redução das desigualdades sociais e na garantia de acesso a alimentos e recursos básicos para populações vulneráveis.
+- **Saúde e Bem-Estar:** Promover o acesso à saúde de qualidade e reduzir a mortalidade, fortalecendo os sistemas de saúde e incentivando práticas de prevenção.
+- **Educação de Qualidade e Igualdade de Gênero:** Assegurar uma educação inclusiva e equitativa e promover oportunidades para todas as pessoas, independentemente de gênero ou origem.
+- **Energia Limpa e Ação Climática:** Incentivar o uso de fontes renováveis de energia, aumentar a eficiência energética e enfrentar as mudanças climáticas por meio de ações concretas.
+- **Cidades Sustentáveis e Consumo Responsável:** Desenvolver cidades resilientes e promover padrões de consumo que minimizem impactos ambientais.
+
+## Inspiração para Projetos
+
+Os ODS oferecem um conjunto abrangente de desafios globais que podem ser utilizados como base para a geração de ideias inovadoras em projetos de computação. Ao alinhar soluções tecnológicas com os ODS, os desenvolvedores têm a oportunidade de criar produtos que não só resolvem problemas técnicos, mas também contribuem para mudanças sociais e ambientais significativas. Essa abordagem multidisciplinar permite o desenvolvimento de projetos que geram impacto real e sustentável, conectando tecnologia a causas de relevância mundial.
+
 # Funções do Projeto
 
 Este projeto é dividido em cinco frentes de atuação, que simulam um ambiente real de desenvolvimento e garantem a integração de diversas áreas de conhecimento:
