@@ -1,3 +1,23 @@
+# Funções do Projeto
+
+Este projeto é dividido em cinco frentes de atuação, que simulam um ambiente real de desenvolvimento e garantem a integração de diversas áreas de conhecimento:
+
+## Gerência de Projetos (GP)
+Responsável pelo planejamento, acompanhamento e coordenação das atividades. Define escopo, gerencia riscos, organiza reuniões e garante que as entregas sejam realizadas dentro dos prazos e padrões de qualidade.
+
+## Banco de Dados (BD)
+Foca na modelagem, criação e manutenção das estruturas de dados. Conduz a definição de esquemas, otimização de consultas e garante a integridade, escalabilidade e segurança dos dados armazenados.
+
+## Ciência de Dados e IA (CD/IA)
+Trata da coleta, limpeza, análise e visualização de dados, além de desenvolver modelos de inteligência artificial. Essa área explora insights e cria soluções preditivas que agregam valor ao projeto.
+
+## Desenvolvimento Web/Mobile (Dev)
+Responsável pela implementação do front-end e back-end, integração de APIs e criação de interfaces amigáveis. Garante que o sistema seja funcional, responsivo e que ofereça uma experiência de usuário intuitiva.
+
+## Segurança da Informação (Sec)
+Encarrega-se de proteger o projeto contra ameaças e vulnerabilidades. Desenvolve políticas de segurança, implementa criptografia, realiza testes de invasão e monitora o ambiente para assegurar conformidade com normas como a LGPD.
+
+
 # Programação Técnica de 20 Semanas com Sprints de 2 Semanas
 
 | **Sprint** | **Semanas** | **Gerência de Projetos (GP)**                                                                                                                                       | **Banco de Dados (BD)**                                                                                                              | **Ciência de Dados e IA (CD/IA)**                                                                                                      | **Desenvolvimento Web/Mobile (Dev)**                                                                                                    | **Segurança da Informação (Sec)**                                                                                                                       |
